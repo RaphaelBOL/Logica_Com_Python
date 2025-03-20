@@ -13,7 +13,7 @@ O repositório contém diversos exercícios que simulam situações do dia a dia
 - **Ex3 - Cálculo de dívida com juros e parcelamento** Este exercício simula o cálculo do valor total de uma dívida a partir de diferentes opções de parcelamento, aplicando os juros correspondentes a cada quantidade de parcelas.
 - **Ex4 - Cálculo de Investimentos com tributação** Neste exercício, o usuário escolhe entre diferentes tipos de investimento (CDB, LCI ou LCA) e informa o valor e o período de investimento. Para investimentos em CDB, o programa calcula o valor do imposto de renda a ser pago conforme o número de dias investidos. Investimentos em LCI e LCA são isentos de IR.
 
-## Tecologias Utilizadas
+## Tecnologias Utilizadas
 
 - **Python:** Linguagem de programação utilizada para implementar os exercícios.
 - **Terminal/Console:** Ambiente utilizado para entrada e saída de dados.
